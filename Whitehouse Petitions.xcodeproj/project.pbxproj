@@ -12,6 +12,9 @@
 		7679F45C2C9CE23200DBACA2 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7679F45B2C9CE23200DBACA2 /* ViewController.swift */; };
 		7679F4612C9CE24400DBACA2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7679F4602C9CE24400DBACA2 /* Assets.xcassets */; };
 		7679F4642C9CE24400DBACA2 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 7679F4632C9CE24400DBACA2 /* Base */; };
+		7679F46E2C9CE70F00DBACA2 /* TabBarController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7679F46D2C9CE70F00DBACA2 /* TabBarController.swift */; };
+		7679F4742C9CFA3B00DBACA2 /* Petitions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7679F4732C9CFA3B00DBACA2 /* Petitions.swift */; };
+		7679F4762C9CFA5800DBACA2 /* Petition.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7679F4752C9CFA5800DBACA2 /* Petition.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +25,9 @@
 		7679F4602C9CE24400DBACA2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7679F4632C9CE24400DBACA2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7679F4652C9CE24400DBACA2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7679F46D2C9CE70F00DBACA2 /* TabBarController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabBarController.swift; sourceTree = "<group>"; };
+		7679F4732C9CFA3B00DBACA2 /* Petitions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Petitions.swift; sourceTree = "<group>"; };
+		7679F4752C9CFA5800DBACA2 /* Petition.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Petition.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +63,9 @@
 				7679F4572C9CE23200DBACA2 /* AppDelegate.swift */,
 				7679F4592C9CE23200DBACA2 /* SceneDelegate.swift */,
 				7679F45B2C9CE23200DBACA2 /* ViewController.swift */,
+				7679F4732C9CFA3B00DBACA2 /* Petitions.swift */,
+				7679F4752C9CFA5800DBACA2 /* Petition.swift */,
+				7679F46D2C9CE70F00DBACA2 /* TabBarController.swift */,
 				7679F4602C9CE24400DBACA2 /* Assets.xcassets */,
 				7679F4622C9CE24400DBACA2 /* LaunchScreen.storyboard */,
 				7679F4652C9CE24400DBACA2 /* Info.plist */,
@@ -137,6 +146,9 @@
 				7679F45C2C9CE23200DBACA2 /* ViewController.swift in Sources */,
 				7679F4582C9CE23200DBACA2 /* AppDelegate.swift in Sources */,
 				7679F45A2C9CE23200DBACA2 /* SceneDelegate.swift in Sources */,
+				7679F46E2C9CE70F00DBACA2 /* TabBarController.swift in Sources */,
+				7679F4742C9CFA3B00DBACA2 /* Petitions.swift in Sources */,
+				7679F4762C9CFA5800DBACA2 /* Petition.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
